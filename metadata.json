@@ -1,0 +1,9 @@
+{
+  "name": "AI Codex - Voice-Driven by aarsh",
+  "description": "A futuristic application where you can build websites and apps using natural language voice commands. AI Codex uses Gemini's advanced multimodal capabilities to translate your speech into functional code in real-time.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
